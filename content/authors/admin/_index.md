@@ -76,8 +76,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a lecturer in criminology in the [Department of Sociology](https://www.surrey.ac.uk/department-sociology) at the [University of Surrey](https://www.surrey.ac.uk). My research focuses on illicit and unregulated markets, and primarily on three areas: drug markets; commercial sex markets; organised crime and illicit markets. I am particularly interested in fusing criminology scholarship with quantitative methodologies, and using social network analysis to explore co-offending, deviant behaviour, and victimisation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
