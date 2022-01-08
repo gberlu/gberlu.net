@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder 
 image:
-  caption: 'Image credit: Photo by Christopher Farrugia from Pexels'
+  caption: 'Photo by Christopher Farrugia from Pexels'
   focal_point: ""
   preview_only: false
 
