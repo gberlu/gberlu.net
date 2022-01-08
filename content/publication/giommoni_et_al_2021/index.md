@@ -1,15 +1,17 @@
 ---
-title: "Come at the king, you best not miss: criminal network adaptation after law enforcement targeting of key players"
+title: "Interdicting International Drug Trafficking: a Network Approach for Coordinated and Targeted Interventions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile
 authors:
+- Luca Giommoni
 - admin
+- Alberto Aziani
 
 # Date of publication
-date: "2021-12-09T00:00:00Z"
-doi: "https://doi.org/10.1080/17440572.2021.2012460"
+date: "2021-02-08T00:00:00Z"
+doi: "https://link.springer.com/article/10.1007/s10610-020-09473-0"
 
 # Schedule page publish date (NOT publication's date)
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,11 +23,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: In *Global Crime*
+publication: In *European Journal on Criminal Policy and Research*
 
-abstract: This paper investigates the impact of the targeting of key players by law enforcement on the structure, communication strategies, and activities of a drug trafficking network. Data are extracted from judicial court documents. The unique nature of the investigation – which saw a key player being arrested mid-investigation but police monitoring continuing for another year – allows to compare the network before and after targeting. This paper combines a quantitative element where network statistics and exponential random graph models are used to describe and explain structural changes over time, and a qualitative element where the content of wiretapped conversations is analysed. After law enforcement targeting, network members favoured security over efficiency, although criminal collaboration continued after the arrest of the key player. This paper contributes to the growing literature on the efficiency-security trade-off in criminal networks, and discusses policy implications for repressive policies in illegal drug markets.
+abstract: There is a relative dearth of literature on both the effects of cross-border interdictions and the impact of different types of interventions on international drug trafficking. This study identifies the main trafficking routes for cocaine and heroin, along with comparing the disruptive effects induced by targeted and non-coordinated interventions. It adopts a social network approach to identify the routes along which cocaine and heroin are trafficked, and then simulates the impact of different interdiction strategies on these two trafficking networks. The findings indicate that targeting countries based on their respective positions in the networks, as opposed to on the basis of the quantity of drugs exchanged, is more likely to disrupt drug flows. More specifically, concentrating law enforcement resources on countries with several incoming or outgoing trafficking connections, or those countries that mediate between producer, transit and consumer countries, would appear to be particularly effective in this regard. Interventions focused on specific trafficking routes are also likely to be effective if these routes have high edge betweenness centrality scores. This study contributes to extant understanding on the vulnerability of cocaine and heroin international trafficking networks, and, moreover, demonstrates that empirically-driven strategies are potentially more effective at interdicting international trafficking than non-strategic and non-coordinated interventions.
 
-tags: ["law enforcement", "criminal networks", "illegal drug markets", "resilience"]
+tags: ["policing drugs", "supply-side policies", "strategic interventions", "drug law enforcement", "cocaine trafficking", "heroin trafficking"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -35,11 +37,11 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.tandfonline.com/doi/pdf/10.1080/17440572.2021.2012460'
-url_code: 'https://github.com/gberlu/network-resilience'
+url_pdf: 'https://link.springer.com/content/pdf/10.1007/s10610-020-09473-0.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://osf.io/cbdqa/'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -47,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder 
 image:
-  caption: 'Photo by Christopher Farrugia from Pexels'
+  caption: 'Photo by Travis Saylor from Pexels'
   focal_point: ""
   preview_only: false
 
