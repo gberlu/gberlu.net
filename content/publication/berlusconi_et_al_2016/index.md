@@ -1,17 +1,19 @@
 ---
-title: "Interdicting international drug trafficking: A network approach for coordinated and targeted interventions"
+title: "Link prediction in criminal networks: a tool for criminal intelligence analysis"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile
 authors:
-- Luca Giommoni
 - admin
-- Alberto Aziani
+- Francesco Calderoni
+- Nicola Parolini
+- Marco Verani
+- Carlo Piccardi
 
 # Date of publication
-date: "2021-02-08T00:00:00Z"
-doi: "https://link.springer.com/article/10.1007/s10610-020-09473-0"
+date: "2016-04-22T00:00:00Z"
+doi: "https://doi.org/10.1371/journal.pone.0154244"
 
 # Schedule page publish date (NOT publication's date)
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,13 +25,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: In *European Journal on Criminal Policy and Research*
+publication: In *PLoS One*
 
-abstract: There is a relative dearth of literature on both the effects of cross-border interdictions and the impact of different types of interventions on international drug trafficking. This study identifies the main trafficking routes for cocaine and heroin, along with comparing the disruptive effects induced by targeted and non-coordinated interventions. It adopts a social network approach to identify the routes along which cocaine and heroin are trafficked, and then simulates the impact of different interdiction strategies on these two trafficking networks. 
-The findings indicate that targeting countries based on their respective positions in the networks, as opposed to on the basis of the quantity of drugs exchanged, is more likely to disrupt drug flows. More specifically, concentrating law enforcement resources on countries with several incoming or outgoing trafficking connections, or those countries that mediate between producer, transit and consumer countries, would appear to be particularly effective in this regard. Interventions focused on specific trafficking routes are also likely to be effective if these routes have high edge betweenness centrality scores. 
-This study contributes to extant understanding on the vulnerability of cocaine and heroin international trafficking networks, and, moreover, demonstrates that empirically-driven strategies are potentially more effective at interdicting international trafficking than non-strategic and non-coordinated interventions.
+abstract: The problem of link prediction has recently received increasing attention from scholars in network science. In social network analysis, one of its aims is to recover missing links, namely connections among actors which are likely to exist but have not been reported because data are incomplete or subject to various types of uncertainty. In the field of criminal investigations, problems of incomplete information are encountered almost by definition, given the obvious anti-detection strategies set up by criminals and the limited investigative resources. In this paper, we work on a specific dataset obtained from a real investigation, and we propose a strategy to identify missing links in a criminal network on the basis of the topological analysis of the links classified as marginal, i.e. removed during the investigation procedure. The main assumption is that missing links should have opposite features with respect to marginal ones. Measures of node similarity turn out to provide the best characterization in this sense. The inspection of the judicial source documents confirms that the predicted links, in most instances, do relate actors with large likelihood of co-participation in illicit activities.
 
-tags: ["policing drugs", "supply-side policies", "strategic interventions", "drug law enforcement", "cocaine trafficking", "heroin trafficking"]
+tags: []
 
 # Display this page in the Featured widget?
 featured: false
@@ -39,11 +39,11 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/content/pdf/10.1007/s10610-020-09473-0.pdf'
+url_pdf: 'https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0154244&type=printable'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://osf.io/cbdqa/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder 
 image:
-  caption: 'Photo by Travis Saylor from Pexels'
+  caption: 'Photo by RODNAE Productions from Pexels'
   focal_point: ""
   preview_only: false
 
