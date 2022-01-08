@@ -23,10 +23,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Global Crime*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: This paper investigates the impact of the targeting of key players by law enforcement on the structure, communication strategies, and activities of a drug trafficking network. Data are extracted from judicial court documents. The unique nature of the investigation – which saw a key player being arrested mid-investigation but police monitoring continuing for another year – allows to compare the network before and after targeting. This paper combines a quantitative element where network statistics and exponential random graph models are used to describe and explain structural changes over time, and a qualitative element where the content of wiretapped conversations is analysed. After law enforcement targeting, network members favoured security over efficiency, although criminal collaboration continued after the arrest of the key player. This paper contributes to the growing literature on the efficiency-security trade-off in criminal networks, and discusses policy implications for repressive policies in illegal drug markets.
 
 tags: []
 
