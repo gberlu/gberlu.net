@@ -5,12 +5,11 @@ title: "Counter-terrorism in Poland"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile
 authors:
-- Alberto Aziani
 - admin
-- Luca Giommoni
+- Claire Hamilton
 
 # Date of publication
-date: "2019-09-18T00:00:00Z"
+date: "2019-01-01T00:00:00Z"
 doi: "https://doi.org/10.1080/01639625.2019.1666606"
 
 # Schedule page publish date (NOT publication's date)
