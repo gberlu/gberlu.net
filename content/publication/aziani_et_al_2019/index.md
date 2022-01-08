@@ -1,5 +1,5 @@
 ---
-title: "A Quantitative Application of Enterprise and Social Embeddedness Theories to the Transnational Trafficking of Cocaine in Europe"
+title: "A quantitative application of enterprise and social embeddedness theories to the transnational trafficking of cocaine in Europe"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
