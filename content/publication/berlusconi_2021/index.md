@@ -14,13 +14,13 @@ doi: "https://doi.org/10.1080/17440572.2021.2012460"
 # Schedule page publish date (NOT publication's date)
 publishDate: "2017-01-01T00:00:00Z"
 
-# Publication type.
+# Publication type
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated publication name
 publication: In *Global Crime*
 
 abstract: This paper investigates the impact of the targeting of key players by law enforcement on the structure, communication strategies, and activities of a drug trafficking network. Data are extracted from judicial court documents. The unique nature of the investigation – which saw a key player being arrested mid-investigation but police monitoring continuing for another year – allows to compare the network before and after targeting. This paper combines a quantitative element where network statistics and exponential random graph models are used to describe and explain structural changes over time, and a qualitative element where the content of wiretapped conversations is analysed. After law enforcement targeting, network members favoured security over efficiency, although criminal collaboration continued after the arrest of the key player. This paper contributes to the growing literature on the efficiency-security trade-off in criminal networks, and discusses policy implications for repressive policies in illegal drug markets.
@@ -35,8 +35,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://www.tandfonline.com/doi/pdf/10.1080/17440572.2021.2012460'
+url_code: 'https://github.com/gberlu/network-resilience'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: Photo by Christopher Farrugia from Pexels'
   focal_point: ""
   preview_only: false
 
