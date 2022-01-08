@@ -1,17 +1,17 @@
 ---
-title: "Interdicting international drug trafficking: A network approach for coordinated and targeted interventions"
+title: "Forecasting organized crime homicides: risk terrain modelling of Camorra violence in Naples"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile
 authors:
-- Luca Giommoni
+- Marco Dugato
+- Francesco Calderoni
 - admin
-- Alberto Aziani
 
 # Date of publication
-date: "2021-02-08T00:00:00Z"
-doi: "https://link.springer.com/article/10.1007/s10610-020-09473-0"
+date: "2017-06-13T00:00:00Z"
+doi: "https://doi.org/10.1177/0886260517712275"
 
 # Schedule page publish date (NOT publication's date)
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,13 +23,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name
-publication: In *European Journal on Criminal Policy and Research*
+publication: In *Journal of Interpersonal Violence*
 
-abstract: There is a relative dearth of literature on both the effects of cross-border interdictions and the impact of different types of interventions on international drug trafficking. This study identifies the main trafficking routes for cocaine and heroin, along with comparing the disruptive effects induced by targeted and non-coordinated interventions. It adopts a social network approach to identify the routes along which cocaine and heroin are trafficked, and then simulates the impact of different interdiction strategies on these two trafficking networks. 
-The findings indicate that targeting countries based on their respective positions in the networks, as opposed to on the basis of the quantity of drugs exchanged, is more likely to disrupt drug flows. More specifically, concentrating law enforcement resources on countries with several incoming or outgoing trafficking connections, or those countries that mediate between producer, transit and consumer countries, would appear to be particularly effective in this regard. Interventions focused on specific trafficking routes are also likely to be effective if these routes have high edge betweenness centrality scores. 
-This study contributes to extant understanding on the vulnerability of cocaine and heroin international trafficking networks, and, moreover, demonstrates that empirically-driven strategies are potentially more effective at interdicting international trafficking than non-strategic and non-coordinated interventions.
+abstract: Mafia homicides are usually committed for retaliation, economic profit, or rivalry among groups. The variety of possible reasons suggests the inefficacy of a preventive approach. However, like most violent crimes, mafia homicides concentrate in space due to place-specific social and environmental features. Starting from the existing literature, this study applies the Risk Terrain Modeling approach to forecast the Camorra homicides in Naples, Italy. This approach is based on the identification and evaluation of the underlying risk factors able to affect the risk of a homicide. This information is then used to predict the most likely location of future events. The findings of this study demonstrate that past homicides, drug dealing, confiscated assets, and rivalries among groups make it possible to predict up to 85% of 2012 mafia homicides, identifying 11% of city areas at highest risk. By contrast, variables controlling for the socio-economic conditions of areas are not significantly related to the risk of homicide. Moreover, this study shows that, even in a restricted space, the same risk factors may combine in different ways, giving rise to areas of equal risk but requiring targeted remedies. These results provide an effective basis for short- and long-term targeted policing strategies against organized crime- and gang-related violence. A similar approach may also provide practitioners, policy makers, and local administrators in other countries with significant support in understanding and counteracting also other forms of violent behavior by gangs or organized crime groups.
 
-tags: ["policing drugs", "supply-side policies", "strategic interventions", "drug law enforcement", "cocaine trafficking", "heroin trafficking"]
+tags: ["homicide", "violence exposure", "risk terrain modelling", "organised crime", "crime forecasting"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -39,11 +37,11 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/content/pdf/10.1007/s10610-020-09473-0.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://osf.io/cbdqa/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -51,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder 
 image:
-  caption: 'Photo by Travis Saylor from Pexels'
+  caption: 'Photo by RODNAE Productions from Pexels'
   focal_point: ""
   preview_only: false
 
