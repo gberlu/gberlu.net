@@ -10,7 +10,7 @@ authors:
 
 # Date of publication
 date: "2019-01-01T00:00:00Z"
-doi: "https://doi.org/10.1080/01639625.2019.1666606"
+doi: "https://link.springer.com/book/10.1007/978-3-030-12322-2"
 
 # Schedule page publish date (NOT publication's date)
 publishDate: "2017-01-01T00:00:00Z"
