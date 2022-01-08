@@ -24,7 +24,7 @@ publication_types: ["6"]
 # Publication name and optional abbreviated publication name
 publication: In *Contagion, counter-terrorism and criminology*
 
-abstract: Illegal enterprise and social embeddedness theories have highlighted the importance of market forces and social factors, respectively, for analyzing organized crime and organized criminal activities. This paper empirically demonstrates the joint explanatory power of these respective theories in the case of the transnational trafficking of cocaine. It does so by conceptualizing transnational cocaine trafficking as a network of relationships among countries; a network whose structure reflects the actions of manifold organized criminal groups. The analysis utilizes exponential random graph models to analyze quantitative data on cocaine trafficking which are ordinarily difficult to capture in empirical research. The analysis presented focuses on a set of 36 European countries. The results yield insights into the nature of the relationship among economic incentives, social ties, geographic features and corruption, and how, in turn, this relationship influences the structure of the transnational cocaine network and the modi operandi of cocaine traffickers.
+abstract: The low level of terrorist activity in Poland has not stopped it legislating in the wake of the recent terror attacks in Europe. This chapter begins with an outline of the historical development of counter-terrorism law and policy in Poland prior to 9/11, before providing a synopsis of post-9/11 domestic and European Union legislation. The final section examines the types of contagion according to the categories set out in Chapter 1. Recent years have seen a series of dramatic reforms of the Polish criminal justice system on the basis of the terrorist threat creating conditions for violations of the rights to liberty, privacy, and so on. In this more recent legislation, the chapter finds strong evidence in support of the ‘contagion’ thesis, particularly in a political context where core democratic guarantees appear under threat.
 
 tags: []
 
@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder 
 image:
-  caption: 'Photo by MART PRODUCTION from Pexels'
+  caption: 'Photo by Kaboompics .com from Pexels'
   focal_point: ""
   preview_only: false
 
