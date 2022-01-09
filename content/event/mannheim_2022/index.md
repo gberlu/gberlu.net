@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: "Social proximity, trust, and resilience: what network data tell us about drug markets and their enforcement"
 
 event: Wowchemy Conference
 event_url: https://example.org
