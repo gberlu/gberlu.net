@@ -7,7 +7,7 @@ categories: []
 tags: []
 
 subtitle: ''
-summary: 'Presentation about co-offending in drug markets, and drug law enforcement.'
+summary: "Presentation about co-offending in drug markets, and drug law enforcement."
 abstract: ''
 
 event: "event name"
