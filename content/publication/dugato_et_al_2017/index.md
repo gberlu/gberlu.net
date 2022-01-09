@@ -10,11 +10,8 @@ authors:
 - admin
 
 # Date of publication
-date: "2017-06-13T00:00:00Z"
+date: "2017-06-13"
 doi: "https://doi.org/10.1177/0886260517712275"
-
-# Schedule page publish date (NOT publication's date)
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +24,7 @@ publication: In *Journal of Interpersonal Violence*
 
 abstract: Mafia homicides are usually committed for retaliation, economic profit, or rivalry among groups. The variety of possible reasons suggests the inefficacy of a preventive approach. However, like most violent crimes, mafia homicides concentrate in space due to place-specific social and environmental features. Starting from the existing literature, this study applies the Risk Terrain Modeling approach to forecast the Camorra homicides in Naples, Italy. This approach is based on the identification and evaluation of the underlying risk factors able to affect the risk of a homicide. This information is then used to predict the most likely location of future events. The findings of this study demonstrate that past homicides, drug dealing, confiscated assets, and rivalries among groups make it possible to predict up to 85% of 2012 mafia homicides, identifying 11% of city areas at highest risk. By contrast, variables controlling for the socio-economic conditions of areas are not significantly related to the risk of homicide. Moreover, this study shows that, even in a restricted space, the same risk factors may combine in different ways, giving rise to areas of equal risk but requiring targeted remedies. These results provide an effective basis for short- and long-term targeted policing strategies against organized crime- and gang-related violence. A similar approach may also provide practitioners, policy makers, and local administrators in other countries with significant support in understanding and counteracting also other forms of violent behavior by gangs or organized crime groups.
 
-tags: ["homicide", "violence exposure", "risk terrain modelling", "organised crime", "crime forecasting"]
+tags: ["homicide", "violence", "risk terrain modelling", "organised crime", "mafias", "crime forecasting"]
 
 # Display this page in the Featured widget?
 featured: false
