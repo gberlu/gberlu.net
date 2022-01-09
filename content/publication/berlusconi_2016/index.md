@@ -22,7 +22,7 @@ publication: In *Crime prevention in the 21st century*
 
 abstract: Social network analysis (SNA) has proven its value in refining criminological concepts and theories to aid the understanding of social processes behind crime problems and to assist law enforcement agencies in enforcing crime. Social network methods and techniques have a great value for crime prevention as well. SNA can be adopted to study crime epidemics and gang-related violence to identify proper violence reduction strategies. Furthermore, the adoption of a network approach can help understand the etiology and dynamics of criminal groups and assess the implications of different disruption strategies, thus limiting network reorganization. This chapter discusses the network approach in criminology and its value for crime prevention.
 
-tags: []
+tags: ["crime prevention", "social network analysis", "network disruption", "criminal networks"]
 
 # Display this page in the Featured widget?
 featured: false
