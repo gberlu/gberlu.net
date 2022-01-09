@@ -5,7 +5,7 @@ date: '2022-02-23'
 categories: []
 tags: []
 subtitle: ''
-summary: 'something'
+summary: ''
 event: 'event name'
 location: 'online'
 url_slides: ''
