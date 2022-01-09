@@ -7,7 +7,7 @@ categories: []
 tags: ["drug markets", "drug law enforcement", "resilience", "co-offending"]
 
 subtitle: ''
-summary: ''
+summary: 'Presentation about co-offending in drug markets, and drug law enforcement.'
 abstract: ''
 
 event: "Mannheim Centre Seminar Series, co-organised with the British Society of Criminology's Southern Branch"
