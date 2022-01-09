@@ -2,9 +2,9 @@
 title: "Social proximity, trust, and resilience: what network data tell us about drug markets and their enforcement"
 
 event: "Mannheim Centre Seminar Series, co-organised with the British Society of Criminology's Southern Branch"
-event_url: https://example.org
+event_url: https://www.britsoccrim.org/events-2/
 
-location: Wowchemy HQ
+location: online
 address:
   street: 450 Serra Mall
   city: Stanford
