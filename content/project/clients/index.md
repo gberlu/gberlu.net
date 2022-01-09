@@ -3,7 +3,7 @@ title: "Understanding risk in unregulated markets: the case of men who purchase 
 summary: Funded by the British Academy/Leverhulme Trust Small Research Grants scheme
 # tags:
 # - Deep Learning
-date: "2016-04-27T00:00:00Z"
+date: "2016-04-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page)
 external_link: ""
