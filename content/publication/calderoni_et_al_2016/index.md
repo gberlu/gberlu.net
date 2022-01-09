@@ -12,11 +12,8 @@ authors:
 - Federica Sarno
 
 # Date of publication
-date: "2016-01-01T00:00:00Z"
+date: "2016-01-01"
 doi: "https://doi.org/10.1177/1477370815623570"
-
-# Schedule page publish date (NOT publication's date)
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +26,7 @@ publication: In *European Journal of Criminology*
 
 abstract: "This study complements existing literature on the mobility of criminal groups (mainly based on country case studies) with the first systematic assessment of the worldwide activities of the four main types of Italian mafias (Cosa Nostra, Camorra, ’Ndrangheta and Apulian mafias) from 2000 to 2012. Drawing from publicly available reports, a specific multiple correspondence analysis identifies the most important associations among mafias, activities, and countries. The results show that the mafias concentrate in a few countries; drug trafficking is the most frequent activity, whereas money laundering appears less important than expected; a stable mafia presence is reported in a few developed countries (mainly Germany, Canada, Australia, and the United States). The mafias show significant differences: the ’Ndrangheta tends to establish structured groups abroad, whereas the other mafias mainly participate in illicit trades."
 
-tags: ["content analysis", "Italian mafias", "mobility of criminal groups", "multiple correspondence analysis", "transplantation"]
+tags: ["content analysis", "mafias", "organised crime", "multiple correspondence analysis", "transplantation"]
 
 # Display this page in the Featured widget?
 featured: false
