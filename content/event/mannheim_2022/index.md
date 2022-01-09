@@ -6,7 +6,7 @@ categories: []
 tags: []
 subtitle: ''
 summary: ''
-event: 'event name'
+event: 'Mannheim Centre Seminar Series, co-organised with the British Society of Criminology's Southern Branch'
 location: 'online'
 url_slides: ''
 authors: []
