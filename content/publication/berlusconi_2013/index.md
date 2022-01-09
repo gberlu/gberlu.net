@@ -8,11 +8,8 @@ authors:
 - admin
 
 # Date of publication
-date: "2013-01-01T00:00:00Z"
+date: "2013-01-01"
 doi: "https://doi.org/10.1080/17440572.2012.746940"
-
-# Schedule page publish date (NOT publication's date)
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
