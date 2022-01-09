@@ -4,13 +4,13 @@ title: "Social proximity, trust, and resilience: What network data tell us about
 event: "Mannheim Centre Seminar Series, co-organised with the British Society of Criminology's Southern Branch"
 event_url: https://www.britsoccrim.org/events-2/
 
-# location: Wowchemy HQ
-# address:
-  # street: 450 Serra Mall
-  # city: Stanford
-  # region: CA
-  # postcode: '94305'
-  # country: United States
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
