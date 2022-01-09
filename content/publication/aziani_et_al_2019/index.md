@@ -10,11 +10,8 @@ authors:
 - Luca Giommoni
 
 # Date of publication
-date: "2019-09-18T00:00:00Z"
+date: "2019-09-18"
 doi: "https://doi.org/10.1080/01639625.2019.1666606"
-
-# Schedule page publish date (NOT publication's date)
-publishDate: "2017-01-01"
 
 # Publication type
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
