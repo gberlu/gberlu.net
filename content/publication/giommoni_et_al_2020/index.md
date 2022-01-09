@@ -10,11 +10,8 @@ authors:
 - G.J. Melendez-Torres
 
 # Date of publication
-date: "2020-09-07T00:00:00Z"
+date: "2020-09-07"
 doi: "https://doi.org/10.1080/13691058.2020.1788725"
-
-# Schedule page publish date (NOT publication's date)
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +24,7 @@ publication: In *Culture, Health & Sexuality*
 
 abstract: This study analyses large-scale online data to examine the characteristics of a national commercial sex network of off-street female sex workers and their male clients to identify implications for public health policy and practice. We collected sexual contact information from the largest online community dedicated to reviewing sex workers’ services in the UK. We built the sexual network using reviews reported between January 2014 and December 2017. We then quantified network parameters using social network analysis measures. The network is composed of 6477 vertices with 59% of them concentred in a giant component clustered around London and Milton Keynes. We found minimal disassortative mixing by degree between sex workers and their clients, and that a few clients and sex workers are highly connected whilst the majority only have one or few sexual contacts. Finally, our simulation models suggested that prevention strategies targeting both sex workers and clients with high centrality scores are the most effective in reducing network connectedness and average closeness centrality scores, thus limiting the transmission of STIs.
 
-tags: ["sex work", "commercial sex network", "online data", "social network analysis"]
+tags: ["sex work", "commercial sex", "online data", "social network analysis"]
 
 # Display this page in the Featured widget?
 featured: false
