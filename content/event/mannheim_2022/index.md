@@ -1,10 +1,10 @@
 ---
-title: "Social proximity, trust, and resilience: What network data tell us about drug markets and their enforcement"
+title: "Social proximity, trust, and resilience: what network data tell us about drug markets and their enforcement"
 author: Giulia Berlusconi
 date: '2022-02-23'
 
 categories: []
-tags: ["drug markets", "drug law enforcement", "resilience", "co-offending"]
+tags: []
 
 subtitle: ''
 summary: 'Presentation about co-offending in drug markets, and drug law enforcement.'
@@ -29,3 +29,5 @@ image:
 
 projects: []
 ---
+
+something
