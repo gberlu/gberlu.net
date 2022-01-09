@@ -1,7 +1,7 @@
 ---
 title: "Social proximity, trust, and resilience: What network data tell us about drug markets and their enforcement"
 author: Giulia Berlusconi
-date: '2020-11-19'
+date: '2022-02-23'
 categories: []
 tags: []
 subtitle: ''
