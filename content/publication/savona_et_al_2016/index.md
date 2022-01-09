@@ -10,11 +10,8 @@ authors:
 - admin
 
 # Date of publication
-date: "2016-01-01T00:00:00Z"
+date: "2016-01-01"
 doi: "https://www.routledge.com/Organised-Crime-in-European-Businesses/Savona-Riccardi-Berlusconi/p/book/9781138499478"
-
-# Schedule page publish date (NOT publication's date)
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,11 +20,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name
-# publication: In *European Journal on Criminal Policy and Research*
+# publication: ...
 
 abstract: The infiltration of organised crime in the legitimate economy has emerged as a transnational phenomenon. This book constitutes an unprecedented study of the involvement of criminal groups in the legitimate economy and their infiltration in legal businesses, and is the first to bridge the research gap between money laundering and organised crime. It analyses the main drivers of this process, explaining why, how and where infiltration happens.
 
-tags: ["organised crime"]
+tags: ["organised crime", "money laundering"]
 
 # Display this page in the Featured widget?
 featured: false
