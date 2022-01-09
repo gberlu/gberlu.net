@@ -1,6 +1,6 @@
 ---
 title: "Understanding risk in unregulated markets: the case of men who purchase sex"
-summary: British Academy/Leverhulme Trust Small Research Grants scheme
+summary: Funded by the British Academy/Leverhulme Trust Small Research Grants scheme
 # tags:
 # - Deep Learning
 date: "2016-04-27T00:00:00Z"
