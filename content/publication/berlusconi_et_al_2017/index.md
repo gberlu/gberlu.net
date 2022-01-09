@@ -10,11 +10,8 @@ authors:
 - Luca Giommoni
 
 # Date of publication
-date: "2017-04-25T00:00:00Z"
+date: "2017-04-25"
 doi: "https://doi.org/10.1016/j.socnet.2017.03.012"
-
-# Schedule page publish date (NOT publication's date)
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +24,7 @@ publication: In *Social Networks*
 
 abstract: This study utilises recent advances in statistical models for social networks to identify the factors shaping heroin trafficking in relation to European countries. First, it estimates the size of the heroin flows among a network of 61 countries, before subsequently using a latent space approach to model the presence of trafficking and the amount of heroin traded between any two given countries. Many networks, such as trade networks, are intrinsically weighted, and ignoring edge weights results in a loss of relevant information. Traditionally, the gravity model has been used to predict legal trade flows, assuming conditional independence among observations. More recently, latent space position models for social networks have been used to analyze legal trade among countries, and, mutatis mutandis, can be applied to the context of illegal trade to count both edge weights and conditional dependence among observations. These models allow for a better understanding of the generative processes and potential evolution of heroin trafficking routes. This study shows that geographical and social proximity provide fertile ground for the formation of heroin flows. Opportunities are also a driver of drug flows towards countries where regulation of corruption is weak.
 
-tags: ["heroin trafficking", "latent space", "gravity model", "social proximity"]
+tags: ["heroin trafficking", "latent space models", "gravity models", "social ties", "organised crime", "social network analysis"]
 
 # Display this page in the Featured widget?
 featured: false
