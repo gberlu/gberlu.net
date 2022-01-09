@@ -4,13 +4,14 @@ author: Giulia Berlusconi
 date: '2022-02-23'
 
 categories: []
-tags: []
+tags: ["drug markets", "drug law enforcement", "resilience", "co-offending"]
 
 subtitle: ''
 summary: ''
 abstract: ''
 
 event: "Mannheim Centre Seminar Series, co-organised with the British Society of Criminology's Southern Branch"
+event_url: https://www.britsoccrim.org/events-2/
 location: 'online'
 
 url_code: ""
