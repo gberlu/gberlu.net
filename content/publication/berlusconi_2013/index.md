@@ -22,7 +22,7 @@ publication: In *Global Crime*
 
 abstract: Law enforcement agencies rely on data collected from wire taps to construct the organisational chart of criminal enterprises. Recently, a number of academics have also begun to utilise social network analysis to describe relations among criminals and understand the internal organisation of criminal groups. However, before drawing conclusions about the structure or the organisation of criminal groups, it is important to understand the limitations that selective samples such as wire taps may have on network analysis measures. Electronic surveillance data can be found in different kinds of court records and the selection of the data source is likely to influence the amount of missing information and, consequently, the results. This article discusses the impact that the selection of a specific data source for the social network analysis of criminal groups may have on centrality measures usually adopted in organised crime research to identify key players.
 
-tags: ["criminal networks", "law enforcement data", "social network analysis", "sampling", "centrality"]
+tags: ["criminal networks", "electronic surveillance", "social network analysis", "sampling", "centrality"]
 
 # Display this page in the Featured widget?
 featured: false
