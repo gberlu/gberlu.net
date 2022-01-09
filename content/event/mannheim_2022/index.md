@@ -1,7 +1,7 @@
 ---
 title: "Social proximity, trust, and resilience: what network data tell us about drug markets and their enforcement"
 
-event: Wowchemy Conference
+event: "Mannheim Centre Seminar Series, co-organised with the British Society of Criminology's Southern Branch"
 event_url: https://example.org
 
 location: Wowchemy HQ
