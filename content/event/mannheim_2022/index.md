@@ -5,7 +5,7 @@ date: '2022-02-23'
 categories: []
 tags: []
 subtitle: ''
-summary: 'say something.'
+summary: 'something.'
 event: 'eventname'
 location: 'online'
 url_slides: ''
