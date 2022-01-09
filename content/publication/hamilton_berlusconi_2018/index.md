@@ -9,11 +9,8 @@ authors:
 - admin
 
 # Date of publication
-date: "2018-01-03T00:00:00Z"
+date: "2018-01-03"
 doi: "https://doi.org/10.1177/1748895817751829"
-
-# Schedule page publish date (NOT publication's date)
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +23,7 @@ publication: In *Criminology & Criminal Justice*
 
 abstract: In the burgeoning criminological literature on security, risk and preventive justice which has followed the 9/11 attacks on the Twin Towers, ‘contagion’ or the deleterious effect of counterterrorist policies on the ordinary criminal law has been the subject of some discussion, mostly in the context of the threat which such ‘exceptional’ policies pose to mainstream procedural values. This article seeks to build on this literature through an examination of the impact of post 9/11 counterterrorism law and policy on the ordinary criminal justice system in France. Given the extent to which counterterrorist law now encroaches on various aspects of French criminal law, the argument is made for greater criminological attention to be paid to the ‘trickle-down’ effect of extraordinary law on the ordinary business of the criminal justice system.
 
-tags: ["contagion", "counter-terrorism", "criminal justice", "France"]
+tags: ["counter-terrorism", "criminal justice"]
 
 # Display this page in the Featured widget?
 featured: false
