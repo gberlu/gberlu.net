@@ -10,11 +10,8 @@ authors:
 - admin
 
 # Date of publication
-date: "2017-01-01T00:00:00Z"
+date: "2017-01-01"
 doi: "https://doi.org/10.1177/0022042616682426"
-
-# Schedule page publish date (NOT publication's date)
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +24,7 @@ publication: In *Journal of Drug Issues*
 
 abstract: Illicit drugs are trafficked across manifold borders before ultimately reaching consumers. Consequently, interdiction of cross-border drug trafficking forms a critical component of the European Union’s initiative to reduce drug supplies. However, there is contradictory evidence about its effectiveness, which is due, in part, to a paucity of information about how drugs flow across borders. This study uses a network approach to analyze international drug trafficking both to and within Europe, drawing on several perspectives to delineate the factors that affect how drug shipments move across borders. The analysis explicates how drug trafficking is concentrated along specific routes; moreover, we demonstrate that its structure is not random but, rather, driven by specific factors. In particular, corruption and social and geographical proximity are key factors explaining the configuration of heroin supply to European countries. This study also provides essential insights into the disruption of traffickers’ illicit activities.
 
-tags: ["drug trafficking", "social network analysis", "heroin"]
+tags: ["heroin trafficking", "social network analysis", "organised crime", "ergms"]
 
 # Display this page in the Featured widget?
 featured: false
