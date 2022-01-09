@@ -24,7 +24,7 @@ publication: In *Deviant Behaviour*
 
 abstract: Illegal enterprise and social embeddedness theories have highlighted the importance of market forces and social factors, respectively, for analyzing organized crime and organized criminal activities. This paper empirically demonstrates the joint explanatory power of these respective theories in the case of the transnational trafficking of cocaine. It does so by conceptualizing transnational cocaine trafficking as a network of relationships among countries; a network whose structure reflects the actions of manifold organized criminal groups. The analysis utilizes exponential random graph models to analyze quantitative data on cocaine trafficking which are ordinarily difficult to capture in empirical research. The analysis presented focuses on a set of 36 European countries. The results yield insights into the nature of the relationship among economic incentives, social ties, geographic features and corruption, and how, in turn, this relationship influences the structure of the transnational cocaine network and the modi operandi of cocaine traffickers.
 
-tags: ["cocaine trafficking", "organised crime", "social ties", "social network analysis", "ergms"]
+tags: ["organised crime", "cocaine trafficking", "social ties", "social network analysis", "ergms"]
 
 # Display this page in the Featured widget?
 featured: false
