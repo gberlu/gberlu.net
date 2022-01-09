@@ -1,6 +1,6 @@
 ---
-title: "Understanding risk in unregulated markets: the case of men who purchase sex"
-summary: British Academy/Leverhulme Trust Small Research Grants scheme
+title: "How online technologies are transforming transnational organised crime (Cyber-TNOC)"
+summary: Funded by the Economic and Social Research Council
 # tags:
 # - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Jacob Le on Unsplash
+  caption: Photo by Markus Spiske on Unsplash
   focal_point: Smart
 
 # links:
@@ -30,6 +30,8 @@ url_video: ""
 # slides: example
 ---
 
-The project will explore how men who purchase sex in England and Wales understand and perceive the risks associated with buying sex, how past experiences and online interactions influence their perceptions of risk, and how changes in prostitution legislation may impact on their willingness to purchase sexual services and to report suspected cases of trafficking.
+The project, led by Cardiff University and funded by the  (ESRC), investigated how new technologies are influencing transnational organised crime. Project leads are Professor Mike Levi, Dr Luca Giommoni, Professor Matthew Williams and Professor Pete Burnap from Cardiff University. Other contributors include Dr Giulia Berlusconi at University of Surrey, Dr Alberto Aziani at Università Cattolica del Sacro Cuore and Dr David Décary-Hétu at the University of Montreal.
 
-The project is funded by the British Academy/Leverhulme Trust Small Research Grants scheme, and will start in February 2022.
+The project was funded by the Economic and Social Research Council. It started in 2019 and has now ended.
+
+Please see the [UKRI website](https://gtr.ukri.org/projects?ref=ES%2FS008853%2F1#/tabOverview) for a summary of the project and main outputs, and this [blog post](https://www.paccsresearch.org.uk/blog/cyber-tnoc/) for an interview with Professor Levi.
