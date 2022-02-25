@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
+- icon: ""
   icon_pack: fab
   name: Register
   url: https://lse.zoom.us/meeting/register/tZIvduugqj8iEtdGjDsZH9cGil_BIcVeSLcD
