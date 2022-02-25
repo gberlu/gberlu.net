@@ -38,7 +38,7 @@ image:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
-url: https://lse.zoom.us/meeting/register/tZIvduugqj8iEtdGjDsZH9cGil_BIcVeSLcD
+#   url: https://lse.zoom.us/meeting/register/tZIvduugqj8iEtdGjDsZH9cGil_BIcVeSLcD
 url_code: ""
 url_pdf: ""
 url_slides: ""
