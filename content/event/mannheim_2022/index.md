@@ -17,7 +17,7 @@ summary: "A presentation on the role of social ties in drug markets, and the imp
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-02-23T18:30:00Z"
+date: "2022-03-09T18:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -38,7 +38,7 @@ image:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
-#   url: https://twitter.com/georgecushen
+url: https://lse.zoom.us/meeting/register/tZIvduugqj8iEtdGjDsZH9cGil_BIcVeSLcD
 url_code: ""
 url_pdf: ""
 url_slides: ""
