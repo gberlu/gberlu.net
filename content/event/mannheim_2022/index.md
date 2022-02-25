@@ -34,11 +34,11 @@ image:
   caption: 'Photo by Fatih Turan from Pexels'
   focal_point: Right
 
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://lse.zoom.us/meeting/register/tZIvduugqj8iEtdGjDsZH9cGil_BIcVeSLcD
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Register
+  url: https://lse.zoom.us/meeting/register/tZIvduugqj8iEtdGjDsZH9cGil_BIcVeSLcD
 url_code: ""
 url_pdf: ""
 url_slides: ""
