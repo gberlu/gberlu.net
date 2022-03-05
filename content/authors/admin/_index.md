@@ -54,7 +54,7 @@ social:
   link: https://scholar.google.com/citations?user=Zn5wyk8AAAAJ&amp;hl=lv
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/%200000-0003-4654-1059
+  link: https://orcid.org/0000-0003-4654-1059
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Giulia-Berlusconi
