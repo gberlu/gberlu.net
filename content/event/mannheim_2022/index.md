@@ -41,7 +41,7 @@ links:
   url: https://lse.zoom.us/meeting/register/tZIvduugqj8iEtdGjDsZH9cGil_BIcVeSLcD
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "uploads/mannheim_2022.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
