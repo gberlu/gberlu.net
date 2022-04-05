@@ -26,8 +26,8 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-- admin
+# authors:
+# - admin
 
 # tags:
 # - Academic
@@ -39,7 +39,7 @@ I am a Lecturer in Criminology at the University of Surrey. I have conducted res
 
 In 2010, 65% of the UK drug-related public expenditure focused on supply reduction efforts (EMCDDA, 2019), and the UK Government’s new drugs strategy promised another £300 million (HM Government, 2021). This is not surprising given that even countries with a notably lenient approach towards illicit drugs tend to spend more on enforcement than they do on prevention, treatment, and harm reduction combined (Giommoni et al., 2021). The question is, therefore, to what extent these efforts are effective in dismantling the criminal networks involved in the supply, trafficking, and dealing of drugs and, ultimately, reducing drug use, drug related deaths, and drug related offending.
 
-### *Are there laws, policies or approaches adopted in other countries that have been effective in reducing: drug use, drug related deaths, and/or drug related offending?*
+*Are there laws, policies or approaches adopted in other countries that have been effective in reducing: drug use, drug related deaths, and/or drug related offending?*
 
 Despite the popularity and significant investment in drug law enforcement, scholars have questioned its outcomes (e.g., Toth and Mitchell, 2018), highlighting how the resilience and flexibility of drug markets prevents any successes to be long-term. This point was also recently made by Professor Dame Carol Black in her phase one report to the Home Office, where she noted that *‘even if these [police, border forces, etc.] organisations were sufficiently resourced, it is not clear that they would be able to bring about a sustained reduction in drug supply, given the resilience and flexibility of illicit drug markets’* (Black, 2020).
 
@@ -55,7 +55,7 @@ Given the relative ineffectiveness of supply reduction efforts in other countrie
 
 Aziani A., Berlusconi G. and Giommoni L. (2019). A quantitative application of enterprise and social embeddedness theories to the transnational trafficking of cocaine in Europe. *Deviant Behaviour*, published online on 18 August 2019.
 
-Berlusconi G. (2021). Come at the king, you best not miss: criminal network adaptation after law enforcement targeting of key players. *Global Crime*, published online on 9 December 2021.
+Berlusconi G. (2021). [Come at the king, you best not miss: criminal network adaptation after law enforcement targeting of key players](https://gberlu.netlify.app/publication/berlusconi_2021/). *Global Crime*, published online on 9 December 2021.
 
 Black C. (2020). *Review of drugs: phase one report.* London: Home Office.
 
