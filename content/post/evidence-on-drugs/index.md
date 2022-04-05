@@ -1,21 +1,21 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: The resilience of drugs markets
+subtitle: Response to the request of the Home Affairs Select Committee for evidence on drugs
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Response to the request of the Home Affairs Select Committee for evidence on drugs, submitted on 24th March 2022.
 
 # Link this post with a project
-projects: []
+# projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2022-04-05T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2022-03-24T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
@@ -23,83 +23,58 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Photo by Nareeta Martin on Unsplash'
   focal_point: ""
   placement: 2
   preview_only: false
 
 authors:
 - admin
-- 吳恩達
 
-tags:
-- Academic
-- 开源
-
-categories:
-- Demo
-- 教程
+# tags:
+# - Academic
 ---
 
-## Overview
+I am a Lecturer in Criminology at the University of Surrey. I have conducted research on the issues covered by the current enquiry, particularly on drug law enforcement and its impact on drug markets. In this response to the request of the Home Affairs Select Committee for evidence on drugs, I draw from both my own and other research to address the last question posed by the committee about international comparisons.
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+## International comparisons
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+In 2010, 65% of the UK drug-related public expenditure focused on supply reduction efforts (EMCDDA, 2019), and the UK Government’s new drugs strategy promised another £300 million (HM Government, 2021). This is not surprising given that even countries with a notably lenient approach towards illicit drugs tend to spend more on enforcement than they do on prevention, treatment, and harm reduction combined (Giommoni et al., 2021). The question is, therefore, to what extent these efforts are effective in dismantling the criminal networks involved in the supply, trafficking, and dealing of drugs and, ultimately, reducing drug use, drug related deaths, and drug related offending.
 
-## Get Started
+*Are there laws, policies or approaches adopted in other countries that have been effective in reducing: drug use, drug related deaths, and/or drug related offending?*
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+Despite the popularity and significant investment in drug law enforcement, scholars have questioned its outcomes (e.g., Toth and Mitchell, 2018), highlighting how the resilience and flexibility of drug markets prevents any successes to be long-term. This point was also recently made by Professor Dame Carol Black in her phase one report to the Home Office, where she noted that *‘even if these [police, border forces, etc.] organisations were sufficiently resourced, it is not clear that they would be able to bring about a sustained reduction in drug supply, given the resilience and flexibility of illicit drug markets’* (Black, 2020).
 
-## Crowd-funded open-source software
+Studies that focused on the impact of drug law enforcement on specific criminal groups involved in the trafficking and dealing of illicit drugs have highlighted the ‘relative ineffectiveness’ of these approaches (Duijn et al., 2014) due to the ability of criminal networks to replace those who are arrested, and to adapt to the new circumstances. Drug trafficking networks have proven to be resilient to targeted interventions by law enforcement agencies (Berlusconi, 2021; Bright and Delaney, 2013). Even when entire groups are dismantled by law enforcement following multiple arrests, drug markets have shown to be resilient as new dealers replace those who are sentenced and imprisoned (Bouchard, 2007; Duin et al., 2014).
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+Cross-border interdictions suffer from similar shortcomings. An analysis of both heroin and cocaine trafficking routes to Europe has shown how law enforcement does not seem to play a role in explaining why traffickers prefer some routes over others (Aziani et al., 2019; Giommoni et al., 2017). Drug trafficking routes are instead influenced by the number of people who use drugs in individual countries whereby the more people who use drugs in a country, the more a country will be involved in cross-border drug trafficking (both as transit and as destination country). These findings suggest that non-coordinated interventions are likely to have little impact on the international supply of illicit drugs (Giommoni et al., 2021), and that demand reduction efforts that focus on people who use drugs might ultimately help limit the supply of drugs, too.
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
+*If so, could they reasonably be expected to work in the UK?*
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
+Given the relative ineffectiveness of supply reduction efforts in other countries (Duijn et al., 2014; Berlusconi, 2021) and at international level (Giommoni et al., 2021), it seems unlikely that similar efforts will produce different outcomes in the UK. While more research on drug law enforcement is needed (Reuter, 2017), available evidence suggests a focus on prevention and treatment might be more effective and, ultimately, contribute to reducing drug supply, too.
 
-## Ecosystem
+## References
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+Aziani A., Berlusconi G. and Giommoni L. (2019). A quantitative application of enterprise and social embeddedness theories to the transnational trafficking of cocaine in Europe. *Deviant Behaviour*, published online on 18 August 2019.
 
-## Inspiration
+Berlusconi G. (2021). Come at the king, you best not miss: criminal network adaptation after law enforcement targeting of key players. *Global Crime*, published online on 9 December 2021.
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+Black C. (2020). *Review of drugs: phase one report.* London: Home Office.
 
-## Features
+Bouchard, Martin. ‘On the Resilience of Illegal Drug Markets’. *Global Crime* 8, no. 4 (2007): 325–44.
 
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+Bright, David A., and Jordan J. Delaney. ‘Evolution of a Drug Trafficking Network: Mapping Changes in Network Structure and Function across Time’. *Global Crime* 14, no. 2–3 (2013): 238–60.
 
-## Themes
+Duijn, Paul A. C., Victor Kashirin, and Peter M. A. Sloot. ‘The Relative Ineffectiveness of Criminal Network Disruption’. *Scientific Reports* 4 (2014): 4238.
 
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+EMCDDA (2019). *United Kingdom drug report 2019.* Lisbon: European Monitoring Centre for Drugs and Drug Addiction.
 
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
+Giommoni L., Berlusconi G. and Aziani A. (2021). Interdicting international drug trafficking: A network approach for coordinated and targeted interventions. *European Journal on Criminal Policy and Research*, published online on 8 February 2021.
 
-## License
+Giommoni L., Aziani A. and Berlusconi G. (2017). How do illicit drugs move across countries? A network analysis of the heroin supply to Europe. *Journal of Drug Issues* 47(2): 217-240.
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+HM Government (2021). *From harm to hope: a 10-year drugs plan to cut crime and save lives.* London: HM Government.
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+Reuter P. (2017). Creating a drug law enforcement research agenda. *International Journal of Drug Policy*, 41: 160-161.
+
+Toth A.G. and Mitchell O. (2018). A qualitative examination of the effects of international counter-drug interdictions. *International Journal on Drug Policy*, 55: 70–76.
