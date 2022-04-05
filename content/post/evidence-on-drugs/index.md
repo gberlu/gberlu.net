@@ -44,7 +44,7 @@ I am a Lecturer in Criminology at the University of Surrey. I have conducted res
 
 ## International comparisons
 
-In 2010, 65% of the UK drug-related public expenditure focused on supply reduction efforts (EMCDDA, 2019), and the UK Government’s new drugs strategy promised another £300 million (HM Government, 2021). This is not surprising given that even countries with a notably lenient approach towards illicit drugs tend to spend more on enforcement than they do on prevention, treatment, and harm reduction combined (Giommoni et al., 2021). The question is, therefore, to what extent these efforts are effective in dismantling the criminal networks involved in the supply, trafficking, and dealing of drugs and, ultimately, reducing drug use, drug related deaths, and drug related offending.
+In 2010, 65% of the UK drug-related public expenditure focused on supply reduction efforts (EMCDDA, 2019),[^fn1] and the UK Government’s new drugs strategy promised another £300 million (HM Government, 2021). This is not surprising given that even countries with a notably lenient approach towards illicit drugs tend to spend more on enforcement than they do on prevention, treatment, and harm reduction combined (Giommoni et al., 2021). The question is, therefore, to what extent these efforts are effective in dismantling the criminal networks involved in the supply, trafficking, and dealing of drugs and, ultimately, reducing drug use, drug related deaths, and drug related offending.
 
 *Are there laws, policies or approaches adopted in other countries that have been effective in reducing: drug use, drug related deaths, and/or drug related offending?*
 
@@ -83,3 +83,5 @@ HM Government (2021). *From harm to hope: a 10-year drugs plan to cut crime and 
 Reuter P. (2017). Creating a drug law enforcement research agenda. *International Journal of Drug Policy*, 41: 160-161.
 
 Toth A.G. and Mitchell O. (2018). A qualitative examination of the effects of international counter-drug interdictions. *International Journal on Drug Policy*, 55: 70–76.
+
+[^fn1]: EMCDDA
