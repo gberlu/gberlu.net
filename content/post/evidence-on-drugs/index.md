@@ -7,7 +7,7 @@ summary: Response to the request of the Home Affairs Select Committee for eviden
 # projects: []
 
 # Date published
-date: "2022-04-05T00:00:00Z"
+date: "2022-04-05"
 
 # Date updated
 # lastmod: "2022-03-24T00:00:00Z"
@@ -29,8 +29,15 @@ image:
 # authors:
 # - admin
 
-# tags:
-# - Academic
+tags:
+- law enforcement
+- cocaine trafficking
+- heroin trafficking
+- resilience
+
+categories:
+- other
+
 ---
 
 I am a Lecturer in Criminology at the University of Surrey. I have conducted research on the issues covered by the current enquiry, particularly on drug law enforcement and its impact on drug markets. In this response to the request of the Home Affairs Select Committee for evidence on drugs, I draw from both my own and other research to address the last question posed by the committee about international comparisons.
@@ -53,7 +60,7 @@ Given the relative ineffectiveness of supply reduction efforts in other countrie
 
 ## References
 
-Aziani A., Berlusconi G. and Giommoni L. (2019). A quantitative application of enterprise and social embeddedness theories to the transnational trafficking of cocaine in Europe. *Deviant Behaviour*, published online on 18 August 2019.
+Aziani A., Berlusconi G. and Giommoni L. (2019). [A quantitative application of enterprise and social embeddedness theories to the transnational trafficking of cocaine in Europe](https://gberlu.netlify.app/publication/aziani_et_al_2019/). *Deviant Behaviour*, published online on 18 August 2019.
 
 Berlusconi G. (2021). [Come at the king, you best not miss: criminal network adaptation after law enforcement targeting of key players](https://gberlu.netlify.app/publication/berlusconi_2021/). *Global Crime*, published online on 9 December 2021.
 
@@ -67,9 +74,9 @@ Duijn, Paul A. C., Victor Kashirin, and Peter M. A. Sloot. ‘The Relative Ineff
 
 EMCDDA (2019). *United Kingdom drug report 2019.* Lisbon: European Monitoring Centre for Drugs and Drug Addiction.
 
-Giommoni L., Berlusconi G. and Aziani A. (2021). Interdicting international drug trafficking: A network approach for coordinated and targeted interventions. *European Journal on Criminal Policy and Research*, published online on 8 February 2021.
+Giommoni L., Berlusconi G. and Aziani A. (2021). [Interdicting international drug trafficking: A network approach for coordinated and targeted interventions](https://gberlu.netlify.app/publication/giommoni_et_al_2021/). *European Journal on Criminal Policy and Research*, published online on 8 February 2021.
 
-Giommoni L., Aziani A. and Berlusconi G. (2017). How do illicit drugs move across countries? A network analysis of the heroin supply to Europe. *Journal of Drug Issues* 47(2): 217-240.
+Giommoni L., Aziani A. and Berlusconi G. (2017). [How do illicit drugs move across countries? A network analysis of the heroin supply to Europe](https://gberlu.netlify.app/publication/giommoni_et_al_2017/). *Journal of Drug Issues* 47(2): 217-240.
 
 HM Government (2021). *From harm to hope: a 10-year drugs plan to cut crime and save lives.* London: HM Government.
 
