@@ -44,13 +44,13 @@ I am a Lecturer in Criminology at the University of Surrey. I have conducted res
 
 ## International comparisons
 
-In 2010, 65% of the UK drug-related public expenditure focused on supply reduction efforts (EMCDDA, 2019),[^fn1] and the UK Government’s new drugs strategy promised another £300 million (HM Government, 2021). This is not surprising given that even countries with a notably lenient approach towards illicit drugs tend to spend more on enforcement than they do on prevention, treatment, and harm reduction combined (Giommoni et al., 2021). The question is, therefore, to what extent these efforts are effective in dismantling the criminal networks involved in the supply, trafficking, and dealing of drugs and, ultimately, reducing drug use, drug related deaths, and drug related offending.
+In 2010, 65% of the UK drug-related public expenditure focused on supply reduction efforts,[^fn1] and the UK Government’s new drugs strategy promised another £300 million.[^fn2] This is not surprising given that even countries with a notably lenient approach towards illicit drugs tend to spend more on enforcement than they do on prevention, treatment, and harm reduction combined.[^fn3] The question is, therefore, to what extent these efforts are effective in dismantling the criminal networks involved in the supply, trafficking, and dealing of drugs and, ultimately, reducing drug use, drug related deaths, and drug related offending.
 
 *Are there laws, policies or approaches adopted in other countries that have been effective in reducing: drug use, drug related deaths, and/or drug related offending?*
 
-Despite the popularity and significant investment in drug law enforcement, scholars have questioned its outcomes (e.g., Toth and Mitchell, 2018), highlighting how the resilience and flexibility of drug markets prevents any successes to be long-term. This point was also recently made by Professor Dame Carol Black in her phase one report to the Home Office, where she noted that *‘even if these [police, border forces, etc.] organisations were sufficiently resourced, it is not clear that they would be able to bring about a sustained reduction in drug supply, given the resilience and flexibility of illicit drug markets’* (Black, 2020).
+Despite the popularity and significant investment in drug law enforcement, scholars have questioned its outcomes,[^fn4] highlighting how the resilience and flexibility of drug markets prevents any successes to be long-term. This point was also recently made by Professor Dame Carol Black in her phase one report to the Home Office, where she noted that *‘even if these [police, border forces, etc.] organisations were sufficiently resourced, it is not clear that they would be able to bring about a sustained reduction in drug supply, given the resilience and flexibility of illicit drug markets’*.[^fn5]
 
-Studies that focused on the impact of drug law enforcement on specific criminal groups involved in the trafficking and dealing of illicit drugs have highlighted the ‘relative ineffectiveness’ of these approaches (Duijn et al., 2014) due to the ability of criminal networks to replace those who are arrested, and to adapt to the new circumstances. Drug trafficking networks have proven to be resilient to targeted interventions by law enforcement agencies (Berlusconi, 2021; Bright and Delaney, 2013). Even when entire groups are dismantled by law enforcement following multiple arrests, drug markets have shown to be resilient as new dealers replace those who are sentenced and imprisoned (Bouchard, 2007; Duin et al., 2014).
+Studies that focused on the impact of drug law enforcement on specific criminal groups involved in the trafficking and dealing of illicit drugs have highlighted the ‘relative ineffectiveness’ of these approaches due to the ability of criminal networks to replace those who are arrested, and to adapt to the new circumstances.[^fn6] Drug trafficking networks have proven to be resilient to targeted interventions by law enforcement agencies (Berlusconi, 2021; Bright and Delaney, 2013).[^fn7]-[^fn8] Even when entire groups are dismantled by law enforcement following multiple arrests, drug markets have shown to be resilient as new dealers replace those who are sentenced and imprisoned (Bouchard, 2007; Duin et al., 2014).
 
 Cross-border interdictions suffer from similar shortcomings. An analysis of both heroin and cocaine trafficking routes to Europe has shown how law enforcement does not seem to play a role in explaining why traffickers prefer some routes over others (Aziani et al., 2019; Giommoni et al., 2017). Drug trafficking routes are instead influenced by the number of people who use drugs in individual countries whereby the more people who use drugs in a country, the more a country will be involved in cross-border drug trafficking (both as transit and as destination country). These findings suggest that non-coordinated interventions are likely to have little impact on the international supply of illicit drugs (Giommoni et al., 2021), and that demand reduction efforts that focus on people who use drugs might ultimately help limit the supply of drugs, too.
 
@@ -84,4 +84,18 @@ Reuter P. (2017). Creating a drug law enforcement research agenda. *Internationa
 
 Toth A.G. and Mitchell O. (2018). A qualitative examination of the effects of international counter-drug interdictions. *International Journal on Drug Policy*, 55: 70–76.
 
-[^fn1]: EMCDDA
+[^fn1]: EMCDDA (2019). *United Kingdom drug report 2019.* Lisbon: European Monitoring Centre for Drugs and Drug Addiction.
+
+[^fn2]: HM Government (2021). *From harm to hope: a 10-year drugs plan to cut crime and save lives.* London: HM Government.
+
+[^fn3]: Giommoni L., Berlusconi G. and Aziani A. (2021). [Interdicting international drug trafficking: A network approach for coordinated and targeted interventions](https://gberlu.netlify.app/publication/giommoni_et_al_2021/). *European Journal on Criminal Policy and Research*, published online on 8 February 2021.
+
+[^fn4]: Toth A.G. and Mitchell O. (2018). A qualitative examination of the effects of international counter-drug interdictions. *International Journal on Drug Policy*, 55: 70–76.
+
+[^fn5]: Black C. (2020). *Review of drugs: phase one report.* London: Home Office.
+
+[^fn6]: Duijn, Paul A. C., Victor Kashirin, and Peter M. A. Sloot. ‘The Relative Ineffectiveness of Criminal Network Disruption’. *Scientific Reports* 4 (2014): 4238.
+
+[^fn7]: Berlusconi G. (2021). [Come at the king, you best not miss: criminal network adaptation after law enforcement targeting of key players](https://gberlu.netlify.app/publication/berlusconi_2021/). *Global Crime*, published online on 9 December 2021.
+
+[^fn8]: Bright, David A., and Jordan J. Delaney. ‘Evolution of a Drug Trafficking Network: Mapping Changes in Network Structure and Function across Time’. *Global Crime* 14, no. 2–3 (2013): 238–60.
