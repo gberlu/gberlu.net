@@ -1,10 +1,10 @@
 ---
-title: "Social proximity, trust, and resilience: what network data tell us about drug markets and their enforcement"
+title: "Buying sex online: A study of an online community of men who pay for sex in England and Wales"
 
-event: "Mannheim Centre Seminar Series, co-organised with the British Society of Criminology's Southern Branch"
-event_url: https://www.britsoccrim.org/events-2/
+event: "Dialogues: A Summer Showcase on Communities…"
+event_url: https://www.surrey.ac.uk/events/20220518-summer-showcase-communities-dialogues-showcase-event-surrey-sociology
 
-location: online
+location: University of Surrey
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,12 +12,12 @@ location: online
 #   postcode: '94305'
 #   country: United States
 
-summary: "A presentation on the role of social ties in drug markets, and the implications for drug law enforcement."
+summary: "A presentation on what computer-mediated communications can tell us about the norms, values, and beliefs shared by men who buy sex in England and Wales."
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-03-09T18:30:00Z"
+date: "2022-05-18T12:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -25,23 +25,23 @@ all_day: false
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: ["cocaine trafficking", "heroin trafficking", "social network analysis", "social ties", "law enforcement", "organised crime"]
+tags: ["sex work", "commercial sex", "online data", "social network analysis"]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Photo by Fatih Turan from Pexels'
+  caption: 'Photo by Jacob Le on Unsplash'
   focal_point: Right
 
 links:
 - icon: ""
-  icon_pack: fab
-  name: Register
-  url: https://lse.zoom.us/meeting/register/tZIvduugqj8iEtdGjDsZH9cGil_BIcVeSLcD
+  icon_pack: ""
+  name: ""
+  url: ""
 url_code: ""
 url_pdf: ""
-url_slides: "uploads/mannheim_2022.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
