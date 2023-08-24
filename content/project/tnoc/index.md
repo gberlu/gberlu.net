@@ -30,8 +30,8 @@ url_video: ""
 # slides: example
 ---
 
-The project, led by Cardiff University and funded by the  (ESRC), investigated how new technologies are influencing transnational organised crime. Project leads are Professor Mike Levi, Dr Luca Giommoni, Professor Matthew Williams and Professor Pete Burnap from Cardiff University. Other contributors include Dr Giulia Berlusconi at University of Surrey, Dr Alberto Aziani at Università Cattolica del Sacro Cuore and Dr David Décary-Hétu at the University of Montreal.
+The project, led by Cardiff University and funded by the  (ESRC), investigates how new technologies are influencing transnational organised crime. Project leads are Professor Mike Levi, Dr Luca Giommoni, Professor Matthew Williams and Professor Pete Burnap from Cardiff University. Other contributors include Dr Giulia Berlusconi at University of Surrey, Dr Alberto Aziani at Università Cattolica del Sacro Cuore and Dr David Décary-Hétu at the University of Montreal.
 
-The project was funded by the Economic and Social Research Council.
+The project is funded by the Economic and Social Research Council.
 
 Please see the [UKRI website](https://gtr.ukri.org/projects?ref=ES%2FS008853%2F1#/tabOverview) for a summary of the project and main outputs, and this [blog post](https://www.paccsresearch.org.uk/blog/cyber-tnoc/) for an interview with Professor Levi.
