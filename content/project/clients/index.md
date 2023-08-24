@@ -30,6 +30,6 @@ url_video: ""
 # slides: example
 ---
 
-The project will explore how men who purchase sex in England and Wales understand and perceive the risks associated with buying sex, how past experiences and online interactions influence their perceptions of risk, and how changes in prostitution legislation may impact on their willingness to purchase sexual services and to report suspected cases of trafficking.
+The project explores how men who purchase sex in England and Wales understand and perceive the risks associated with buying sex, how past experiences and online interactions influence their perceptions of risk, and how changes in prostitution legislation may impact on their willingness to purchase sexual services and to report suspected cases of trafficking.
 
-The project is funded by the British Academy/Leverhulme Trust Small Research Grants scheme, and will start in February 2022.
+The project is funded by the British Academy/Leverhulme Trust Small Research Grants scheme.
