@@ -58,7 +58,7 @@ image:
 #   Otherwise, set `projects: []`
 # projects:
 # - example
-projects: `content/project/tnoc/index.md`
+projects: 'content/project/tnoc/index.md'
 
 # Slides (optional)
 #   Associate this publication with Markdown slides
