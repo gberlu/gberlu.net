@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder 
 image:
-  caption: 'Photo by RODNAE Productions from Pexels'
+  caption: 'Photo by Maxim Hopman on Unsplash'
   focal_point: ""
   preview_only: false
 
