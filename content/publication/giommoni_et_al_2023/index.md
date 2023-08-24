@@ -8,7 +8,7 @@ authors:
 - Luca Giommoni
 - David Décary-Hétu
 - admin
-- David Décary-Hétu
+- Andréanne Bergeron
 
 # Date of publication
 date: "2023-07-02"
